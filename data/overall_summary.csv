@@ -1,0 +1,3 @@
+defensive_timeout_before_kick,attempts,makes,make_rate,make_rate_percent
+False,10031,8539,0.8512610906190808,85.12610906190808
+True,700,546,0.78,78.0

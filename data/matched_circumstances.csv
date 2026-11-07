@@ -1,0 +1,17 @@
+kicker_player_id,kick_distance,posteam_type,game_half,game_time_group,half_end_group,score_state,wind_group,roof,attempts_no_timeout,attempts_timeout,make_rate_no_timeout,make_rate_timeout,make_rate_difference_percentage_points
+00-0025580,39.0,home,Half1,Over 30 minutes,Final 2 minutes of half,Ahead by 1–7,10–14 mph,outdoors,1.0,1.0,1.0,0.0,-100.0
+00-0029822,26.0,away,Half2,10–30 minutes,More than 2 minutes from half end,Behind by 8+,15+ mph,outdoors,1.0,1.0,1.0,1.0,0.0
+00-0029822,38.0,away,Half1,Over 30 minutes,Final 2 minutes of half,Ahead by 1–7,0–9 mph,outdoors,2.0,1.0,1.0,1.0,0.0
+00-0030098,48.0,home,Half1,Over 30 minutes,Final 2 minutes of half,Behind by 8+,0–9 mph,outdoors,1.0,2.0,1.0,1.0,0.0
+00-0030390,48.0,home,Half1,Over 30 minutes,Final 2 minutes of half,Behind by 1–7,0–9 mph,outdoors,1.0,1.0,1.0,1.0,0.0
+00-0031136,25.0,away,Half2,Final 2 minutes,Final 2 minutes of half,Ahead by 1–7,Unknown,closed,1.0,1.0,1.0,1.0,0.0
+00-0031136,45.0,away,Half1,Over 30 minutes,More than 2 minutes from half end,Behind by 1–7,0–9 mph,outdoors,1.0,1.0,1.0,0.0,-100.0
+00-0031492,26.0,away,Half2,2–10 minutes,More than 2 minutes from half end,Ahead by 8+,0–9 mph,outdoors,1.0,1.0,0.0,1.0,100.0
+00-0031492,56.0,home,Half1,Over 30 minutes,Final 2 minutes of half,Ahead by 8+,0–9 mph,outdoors,1.0,1.0,1.0,1.0,0.0
+00-0032569,29.0,home,Half1,Over 30 minutes,Final 2 minutes of half,Ahead by 1–7,Unknown,dome,1.0,1.0,1.0,1.0,0.0
+00-0034084,41.0,home,Half2,2–10 minutes,More than 2 minutes from half end,Ahead by 8+,Unknown,dome,1.0,1.0,1.0,1.0,0.0
+00-0034450,38.0,home,Half1,Over 30 minutes,Final 2 minutes of half,Behind by 8+,0–9 mph,outdoors,1.0,1.0,1.0,1.0,0.0
+00-0034794,33.0,home,Half2,2–10 minutes,More than 2 minutes from half end,Ahead by 8+,0–9 mph,outdoors,1.0,1.0,1.0,1.0,0.0
+00-0035192,27.0,home,Half2,2–10 minutes,More than 2 minutes from half end,Ahead by 8+,0–9 mph,outdoors,1.0,1.0,1.0,1.0,0.0
+00-0035269,52.0,home,Half1,Over 30 minutes,Final 2 minutes of half,Behind by 8+,Unknown,closed,1.0,1.0,1.0,1.0,0.0
+00-0035358,36.0,home,Half2,Final 2 minutes,Final 2 minutes of half,Behind by 1–7,0–9 mph,outdoors,1.0,1.0,1.0,1.0,0.0
