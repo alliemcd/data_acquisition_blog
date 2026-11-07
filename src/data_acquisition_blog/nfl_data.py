@@ -30,3 +30,5 @@ fg["defensive_timeout_before_kick"] = (
     fg["previous_timeout_team"].eq(fg["defteam"])
 )
 fg["made"] = fg["field_goal_result"].eq("made")
+
+print(fg.head())
